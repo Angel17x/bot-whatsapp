@@ -58,7 +58,7 @@ const getCLient = (number) => {
     const client = Client.findOne({number})
     return client
 }
-const addClient = (number, message) => {
+const addClient = async (number, message) => {
     const spinner = ora(`${chalk.yellow(`Agregando nuevo cliente`)}`).start();
     const person = new Client({number, message: [message]});
     try {
