@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-servicios-paguetodo-sme9",
+  "private_key_id": "db305e2d9b38ab34c226d84238fa934791df999d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7WzFIZzVjTiGj\n5hOIgGQ/OIQxjUtZ+I8loLx0FPo4QXgYw70FD/X99RKCre3vGULcgzvbF2ORHPz8\npeecBjlVmaPOac2oABczlFMKjbyofU3QNY5tBGdrll3BjOC2b4ckc4qPv1bRjKbL\n48yYuZ5+AbYoP3BK1rmvwuqTxC7aErLUttscXxUi+TYcV31mW2XNThJMzu/A2Qh3\nF8e7zPFT2KBYaXRj3EKnv0Qhp0vOgSxOx5mV8I9or7nz5tac1QaS3LsiUiIKUBrD\nlcEcbcU5mx82U2fvpitc2UKS9eUcTwvk4FL+JyXXrFXmkw+YIEMTMsPNWURrowC+\nyswi+DrxAgMBAAECggEARIDu75zBEgq+1RkqWjYrsUv+VcnmW8K8wFLZpQ4IgWo6\nub9UDRZNaOpjNsHWph5T6qHXUF/oaWYygEQ+/7bs3sYa9T2NUxiZYyQgCtNRQD/0\npCT46xZ5pAZqSHs0rK/xt1vBtZaN7XeigxlLNSplb4g7rNKpQcvqQAAiWh4YzWX5\nBeuEifJ/R6O/PntnM/v0ebVjNIRhY4zBlc9HOxdG/5TtDneWzEPacy4Vl9docY4e\nmoK5JBJoI6FoAV7lUp9QtCa0gKeNDfx+jiQ+sZJ+H++UNiXhCfLp9nnC9uiZ/DDE\nbQBOqJOBkTqSkEKNS1eSyptjNy0RAZSfDilsjLmTwwKBgQDwEkCZCkAoH8igCli3\n9mK3vlkfTAR7NLE15n180c6x8D80549uLsFjWg8EIV3hfQE0b4HRDT5IWKGHUcFu\ntFMaXUYPJjNx3gQGN09Vtslz/EULNv2FXqurb57oYIUprfBpaiCYZpTrInzOMImG\nxge34Ijv0DRlXWwbI1zv/78qewKBgQDHyYtpXVNv/S4b4dwYru6d2vkbIXyBUJmA\nsTWz+cBDBd1DTJtXlujVn73c72QayVb8NU1cjzfT+HHbJlUWyLDk2U6CaXwfYuux\nzjhiIvLx2/y/ZLmV4gy4m8EWDocNAvDBTa8dUtaK46KqukLjMpxahciKDy9p8WZq\nP6uEQ+8agwKBgQC8Ac9NCtYLljiL/Q5Vo0LUGuG4vNOVmUJer87+fWCdwUP+romJ\nBFy27cRsu6TF/ht/cQP9L53jEmYNj10o0VdzgjBnlMcdGX2VUKN0wN0rVBjOG5aX\nZ/iRHa0Y1t3yMiHgrBgywcNGEZAj+ab6QQOyYMlc5XTjHTKYXi1eVq7jGQKBgEp/\nlyLFEDX0XNs8z4vMv2HRo45AYGMAIR1h9zqTaOQVLbrIuCxjM5NlK7FU+ykZ5vvJ\nDH31UcYTILGti5EhaQUNGz96AjTZ+DWnRlMh4SHa/FaKQsHnNwMn4UpORIHPlOMg\nCqqOlz3XQHMVXZfG6ZK/zFXe77k7sQrxjw2VH3XtAoGBAMK+qDsZ7IzL+6PpSRm5\ntUpCdMv5J0elshDG4VgkiNau9KM/Z9QL58pDAANAKkxBKD8VNqVJ+0dCkRP+lBCR\neTiEB+s+UFXU88MR/YRuvEUCT/FkQ1SNrJMzEJ2bNpJiocsqu/OSBcnBDKpew6wn\nVqUhPva7dGLFA3/uqueL94zB\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-whatsapp-paguetodo@bot-servicios-paguetodo-sme9.iam.gserviceaccount.com",
+  "client_id": "114665155411718444156",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-whatsapp-paguetodo%40bot-servicios-paguetodo-sme9.iam.gserviceaccount.com"
+}

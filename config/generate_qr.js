@@ -1,4 +1,4 @@
-const qrcode = require('qrcode-terminal')
+const qrcode = require('qrcode-terminal');
 const generateQr = qr => {
     qrcode.generate(qr, {small: true});
 }

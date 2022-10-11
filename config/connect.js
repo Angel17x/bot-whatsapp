@@ -1,13 +1,10 @@
-const { config } = require('dotenv'); 
-const mongoose = require('mongoose');
+const { initializeApp, applicationDefault, cert } = require('firebase-admin/app');
+const { getFirestore, Timestamp, FieldValue } = require('firebase-admin/firestore');
+const account = require(`../${process.env.ACCOUNT_FILE_NAME}`);
+initializeApp({
+    credential: cert(account)
+});
+const db = getFirestore();
 
-config()
+module.exports = db;
 
-module.exports = () => {
-    return mongoose.connect(process.env.MONGO_URI, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true
-        // useFindAndModify: false,
-        // useCreateIndex: true
-    })
-}

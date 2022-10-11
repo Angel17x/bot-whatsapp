@@ -12,18 +12,21 @@
   "author": "Angel Lugo",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/dialogflow": "^5.2.1",
     "axios": "^0.27.2",
     "chalk": "^4.1.2",
     "dotenv": "^16.0.1",
-    "exceljs": "^4.3.0",
+    "ejs": "^3.1.8",
     "express": "^4.18.1",
-    "mime-db": "^1.52.0",
-    "moment": "^2.29.4",
-    "mongoose": "^6.5.1",
-    "nodemon": "^2.0.19",
+    "firebase": "^9.10.0",
+    "firebase-admin": "^11.0.1",
     "ora": "^5.4.1",
+    "qrcode": "^1.5.1",
     "qrcode-terminal": "^0.12.0",
     "uuid": "^8.3.2",
     "whatsapp-web.js": "^1.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
